@@ -1,0 +1,11 @@
+.homepage-content {
+    display: flex;
+    flex-direction: column;  /* Arrange items in a column */
+    align-items: center;     /* Center items horizontally */
+    justify-content: center; /* Center items vertically */
+    height: 100vh;          /* Full viewport height */
+    text-align: center;      /* Center text */
+    
+}
+
+
